@@ -1,4 +1,4 @@
-# holman does dotfiles
+# whatupdave does dotfiles (stolen from holman)
 
 ## dotfiles
 
