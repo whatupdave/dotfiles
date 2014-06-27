@@ -3,3 +3,6 @@
 *~
 *.swp
 *.rbc
+.tm_properties
+.dev
+.prod
